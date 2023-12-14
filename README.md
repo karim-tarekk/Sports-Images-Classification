@@ -29,4 +29,4 @@
 <img src="alexnet.png" alt="AlexNet Architecture" width="500" height="600">
 <br>
 <h3>VGG16 Architecture</h3>
-<img src="vgg16.png" alt="VGG16 Architecture" width="500" height="600">
+<img src="https://datagen.tech/wp-content/uploads/2022/11/image2-1.png" alt="VGG16 Architecture" width="500" height="600">
