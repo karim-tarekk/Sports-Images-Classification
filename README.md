@@ -26,7 +26,7 @@
 <br>
 <h1>Implemented Architectures</h1>
 <h3>AlexNet Architecture</h3>
-<img src="alexnet.png" alt="AlexNet Architecture" width="500" height="600">
+<img src="https://raw.githubusercontent.com/blurred-machine/Data-Science/master/Deep%20Learning%20SOTA/img/alexnet2.png" alt="AlexNet Architecture" width="500" height="600">
 <br>
 <h3>VGG16 Architecture</h3>
 <img src="https://datagen.tech/wp-content/uploads/2022/11/image2-1.png" alt="VGG16 Architecture" width="500" height="600">
